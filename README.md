@@ -8,4 +8,5 @@ This solution does require that you add Microsoft.Web.WebView2 from NuGet (<TOOL
 
 The whole app is developed using Windows Forms in .NET 6 on Visual Studio 2022 and appears to work satisfactorily. 
 
-If you wish to use my work in any demonstration or project of your own please feel free to do so but please do credit me in your write up as a contributor.
+If you wish to use my work in any demonstration or project of your own please feel free to do so but please do credit me in your write up as a contributor.  
+Please also note that it may not yet be complete and there may still be bugs to iron out..
